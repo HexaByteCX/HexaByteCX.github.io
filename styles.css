@@ -4,7 +4,7 @@
   --color-light: #312f46;
   --color-dark: #16151a;
   --color-white: #eae2dd;
-  --color-highlight: #a4b4e1;
+  --color-highlight: #dd985b;
   font-size: clamp(11px, 1.2vw + 0.5rem, 15px);
   color: var(--color-white);
   font-family: "Georgia";
